@@ -27,6 +27,6 @@ function getDatabase() {
 }
 
 module.exports = {
-    init,
-    getDatabase
+  init,
+  getDatabase,
 };
