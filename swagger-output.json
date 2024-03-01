@@ -8,7 +8,7 @@
   "host": "three41-01.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
